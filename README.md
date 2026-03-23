@@ -35,15 +35,14 @@
 
 ---
 
-## 📥 数据集获取 (Download)
+## 📥 数据集获取 (Dataset Download)
 
-请通过以下链接下载完整的数据集文件及相关标注信息：
+完整的数据集文件（包含三维模型数据、点云数据及对应的多层级语义标签）已上传至云端，您可以选择适合的渠道进行下载：
 
-* 👉 **[MFEA-Dataset 下载链接]()** *(Dataset Link)*
+### ☁️ 百度网盘 (Baidu Netdisk)
+* **分享链接 (Link):** [点击此处访问百度网盘](xxxxx)
+* **提取码 (Access Code):** `xxxx` 
 
-> **Note:** 下载包中包含了三维模型数据、点云数据及对应的多层级语义标签文件。
+### 🌍 Google Drive
+* **分享链接 (Link):** [Access Google Drive Here](xxxxxxx)
 
----
-  publisher={GitHub},
-  howpublished={\url{}}
-}
